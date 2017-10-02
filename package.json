@@ -1,0 +1,10 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "A pipeline to remove boiler plate from library generation.",
+  "main": "index.js",
+  "repository": "https://github.com/ksylvest/library",
+  "author": "Kevin Sylvestre (https://ksylvest.com)",
+  "license": "MIT",
+  "private": false
+}
